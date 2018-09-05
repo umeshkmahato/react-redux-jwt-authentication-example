@@ -1,6 +1,7 @@
 {
   "name": "react-redux-jwt-authentication-example",
   "version": "1.0.0",
+  "homepage": "https://umeshkmahato.github.io/react-redux-jwt-authentication-example"
   "repository": {
     "type": "git",
     "url": "https://github.com/cornflourblue/react-redux-jwt-authentication-example.git"
